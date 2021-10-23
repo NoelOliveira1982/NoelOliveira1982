@@ -1,12 +1,12 @@
 # Hello, World 🗺
 
 ## About me
-- 🧑 I'm Jorge Alberto Oliveira
+- 🧑 I'm <strong>Jorge Alberto Oliveira</strong>
 - :brazil: I'm from Brazil
 - 🖥️ I'm graduated in Computer Technician from IFMA
 - 🎨 I'm professional in Graphic Design from GRACOM
 - 🌱 I’m currently learning JavaScript
-- 📱 My passion is Mobile Development
+- 📱 My passion is <strong>Mobile Development</strong>
 
 ## Profile
 <div align="center">
