@@ -5,7 +5,7 @@
 - :brazil: I'm from Brazil
 - 🖥️ I'm graduated in Computer Technician from IFMA
 - 🎨 I'm professional in Graphic Design from GRACOM
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning TypeScript
 - 📱 My passion is <strong>Mobile Development</strong>
 
 ## Profile
