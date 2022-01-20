@@ -5,7 +5,7 @@
 - :brazil: I'm from Brazil
 - 🖥️ I'm graduated in Computer Technician from IFMA
 - 🎨 I'm professional in Graphic Design from GRACOM
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Flutter
 
 ## Profile
 <div align="center">
