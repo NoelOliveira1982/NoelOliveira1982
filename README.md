@@ -5,7 +5,7 @@
 - :brazil: I'm from Brazil
 - 🖥️ I'm graduated in Computer Technician from IFMA
 - 🎨 I'm professional in Graphic Design from GRACOM
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 
 ## Profile
 <div align="center">
