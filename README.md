@@ -6,13 +6,6 @@
 - 🖥️ I'm graduated in Computer Technician from IFMA
 - 🎨 I'm professional in Graphic Design from GRACOM
 - 🌱 I’m currently learning C#
-
-## Profile
-<div align="center">
-  <a href="https://github.com/NoelOliveira1982">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NoelOliveira1982&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelOliveira1982&layout=compact&langs_count=5&theme=react&hide=objective-c,ruby,starlark,java"/>
-</div>
   
 ## Technologies
 <div style="display: inline_block" align="center"><br>
